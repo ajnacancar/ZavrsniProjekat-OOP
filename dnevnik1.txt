@@ -1,0 +1,17 @@
+Redni broj: 1
+Vrsta transakcije: Uplata
+Datum: 6.6.2020.
+Uplatioc: Ime1 Prezime1
+Broj racuna: 1000000000000
+Blagajnik: Zlatko Totic 
+Vrsta uplate: Ostalo
+Iznos: 22
+Redni broj: 2
+Vrsta transakcije: Isplata
+Datum: 14.1.2021.
+Primalac: Test Jedan
+Broj racuna: 1234567890123
+Blagajnik: Zlatko Totic 
+Vrsta isplate: Ostalo
+Iznos: 46
+
